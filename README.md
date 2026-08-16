@@ -1,1 +1,2 @@
 # Netflix_Movie_Review
+The objective of this project is to analyze Netflix content data to identify year-wise trends in movies and TV shows. The study focuses on understanding the growth patterns of different content types, analyzing genre-wise and country-wise distribution, and examining how Netflix’s content library has evolved over time. Through exploratory data analysis, the project aims to derive meaningful insights into Netflix’s content expansion strategy and support data-driven decision making.
